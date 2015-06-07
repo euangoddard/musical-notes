@@ -1,0 +1,19 @@
+{
+  "name": "msuical-notes",
+  "version": "0.0.1",
+  "description": "Convert notes into frequencies",
+  "author": "Euan Goddard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euangoddard/msuical-notes"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-mocha": "^2.1.1",
+    "gulp-rename": "^1.2.2",
+    "should": "^6.0.3"
+  }
+}
