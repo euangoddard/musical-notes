@@ -1,4 +1,4 @@
-# msuical notes
+# musical notes
 
 Convert notes into frequencies
 
